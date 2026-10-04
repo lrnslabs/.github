@@ -6,5 +6,3 @@ LRNSlabs is the GitHub organization where projects created by
 A place for ideas, experiments, and tools to grow.
 
 🌐 Visit [lrnslabs.io](https://lrnslabs.io/).
-
-🔎 Explore the repositories below to see what I'm building.
