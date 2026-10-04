@@ -1,6 +1,6 @@
-# 🧪 LRNSlabs
+# 🧪 LRNS labs
 
-LRNSlabs is the GitHub organization where projects created by
+LRNS labs is the GitHub organization where projects created by
 [0xLaurens](https://github.com/lau-rens) find a home.
 
 Ideas, experiments, and useful tools. Built one “what if?” at a time.

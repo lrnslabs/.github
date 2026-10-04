@@ -1,12 +1,12 @@
-# LRNSlabs organization profile
+# LRNS labs organization profile
 
 This repository contains the public GitHub profile and logo assets for
-[LRNSlabs](https://github.com/lrnslabs), a home for projects created by
+[LRNS labs](https://github.com/lrnslabs), a home for projects created by
 [0xLaurens](https://github.com/lau-rens).
 
 ## Repository contents
 
-- [profile/README.md](profile/README.md) — the introduction displayed on the LRNSlabs organization profile.
+- [profile/README.md](profile/README.md) — the introduction displayed on the LRNS labs organization profile.
 - [profile/assets/lrnslabs-logo.png](profile/assets/lrnslabs-logo.png) — the full-size pixel-art logo.
 - [profile/assets/lrnslabs-logo-200x200.png](profile/assets/lrnslabs-logo-200x200.png) — the 200×200 logo variant.
 
