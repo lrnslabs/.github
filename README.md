@@ -8,7 +8,7 @@ This repository contains the public GitHub profile and logo assets for
 
 - [profile/README.md](profile/README.md) — the introduction displayed on the LRNSlabs organization profile.
 - [profile/assets/lrnslabs-logo.png](profile/assets/lrnslabs-logo.png) — the full-size pixel-art logo.
-- [profile/assets/lrnslabs-logo-200x200.png](profile/assets/lrnslabs-logo-200x200.png) — the 200×200 logo used in the profile README.
+- [profile/assets/lrnslabs-logo-200x200.png](profile/assets/lrnslabs-logo-200x200.png) — the 200×200 logo variant.
 
 ## Updating the organization profile
 
