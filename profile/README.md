@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/lrnslabs/.github/main/profile/assets/lrnslabs-logo-200x200.png" alt="LRNSlabs pixel-art laboratory logo" width="200" height="200">
+
 # LRNSlabs
 
 LRNSlabs is the GitHub organization where projects created by
