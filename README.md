@@ -2,7 +2,7 @@
 
 This repository contains the public GitHub profile and logo assets for
 [LRNS labs](https://github.com/lrnslabs), a home for projects created by
-[0xLaurens](https://github.com/lau-rens).
+[0xLRNS](https://github.com/0xLRNS).
 
 ## Repository contents
 
